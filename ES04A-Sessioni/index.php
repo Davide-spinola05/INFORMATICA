@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Benvenuto nella pagina di accesso!</h1>
-    <p><a href="login.php">Accedi alla pagina di login</a></p>
+    <p><a href="login.php">Accedi alla pagina di login</a></p> 
+    <p><a href="riservata.php"></a></p>
 </body>
 </html>
